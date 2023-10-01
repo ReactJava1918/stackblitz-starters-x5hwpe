@@ -3,9 +3,12 @@ import './style.css';
 
 export default function App() {
   return (
+    <>
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <marquee>
+      <h1>In project see  output in console  how redux  function will invoke</h1>
+      </marquee>
     </div>
+    </>
   );
 }
